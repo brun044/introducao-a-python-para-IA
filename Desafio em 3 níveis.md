@@ -59,7 +59,7 @@ Adicione:
 ---
 
 ## 🎮 2. Sistema de Pontuação de Jogo
-
+O usuário informa qual é sua pontuação.
 ### 🟢 Básico
 Receba a pontuação:
 - ≥ 100 → "Nível Avançado"
@@ -82,7 +82,8 @@ Adicione:
 ---
 
 ## 🛒 3. Sistema de Compra com Desconto
-
+O usuário informa o valor e a quantidade de 5 produtos, calcule o valor final e aplique desconto.
+Identifique que tipo o cliente é: básico(sem desconto) ou vip
 ### 🟢 Básico
 - ≥ 100 → 10% de desconto
 - < 100 → sem desconto
@@ -104,7 +105,7 @@ Adicione:
 ---
 
 ## 🌡️ 4. Monitoramento de Temperatura
-
+Usuário informa a temperatura do servidor:
 ### 🟢 Básico
 - ≥ 70 → "Alerta"
 - < 70 → "Normal"
@@ -126,7 +127,7 @@ Adicione:
 ---
 
 ## 🏫 5. Avaliação de Projeto
-
+O usuario informa a nota que seu projeto recebeu:
 ### 🟢 Básico
 - ≥ 7 → "Aprovado"
 - < 7 → "Reprovado"
