@@ -27,7 +27,6 @@ nomes = ["Ana", "Carlos", "Julia"]
 ---
 
 ### 4.
-
 Remova o elemento `"banana"` da lista:
 
 ```python
@@ -37,7 +36,6 @@ frutas = ["maçã", "banana", "uva", "laranja"]
 ---
 
 ## 5.
-
 Percorra a lista abaixo usando `for` e exiba cada nome:
 
 ```python
@@ -49,7 +47,6 @@ alunos = ["Lucas", "Marina", "João", "Bianca"]
 # 📗 Nível 2 — Manipulação de Dados
 
 ## 6.
-
 Crie uma lista com 10 números digitados pelo usuário e exiba:
 
 - todos os números
@@ -58,7 +55,6 @@ Crie uma lista com 10 números digitados pelo usuário e exiba:
 ---
 
 ## 7.
-
 Faça um programa que:
 
 - receba 5 notas
@@ -68,7 +64,6 @@ Faça um programa que:
 ---
 
 ## 8.
-
 Crie uma lista com números aleatórios e exiba:
 
 - maior valor
@@ -77,7 +72,6 @@ Crie uma lista com números aleatórios e exiba:
 ---
 
 ## 9.
-
 Conte quantas vezes o número `5` aparece na lista:
 
 ```python
