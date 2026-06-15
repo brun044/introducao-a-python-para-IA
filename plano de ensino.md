@@ -75,7 +75,7 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 ---
 
 # 📚 Aula 03 – Construindo o Primeiro Modelo
-
+🔗 Acesse: **[Aula 03](https://colab.research.google.com/drive/16j6PblInuFctQdocQfZr9scWoqfAsEVN?usp=sharing)**
 ## Conteúdo
 
 * Introdução ao Scikit-Learn
@@ -96,6 +96,8 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 ---
 
 # 📚 Aula 04 – Preparação de Dados para Machine Learning
+
+🔗 Acesse: **[Aula 04](https://colab.research.google.com/drive/1tMGi_zFqI8LVdUCfMDl3veGRryLCsjSB?usp=sharing)**
 
 ## Conteúdo
 
