@@ -3,7 +3,7 @@
 
 ---
 
-## Bloco 2 — O que é Machine Learning 
+## Bloco 1 — O que é Machine Learning 
 
 **Definição:** ML é a área da computação em que o sistema aprende padrões a partir de dados, em vez de seguir regras explicitamente programadas.
 
@@ -22,11 +22,11 @@
 - Tradicional: programador escreve regra fixa "se contém a palavra 'grátis', é spam" — fácil de burlar.
 - ML: o sistema aprende, a partir de milhares de e-mails já classificados, quais combinações de padrões indicam spam — e se adapta a novos truques.
 
-**Discussão em sala (5 min):** Peça aos alunos exemplos do cotidiano onde "regras fixas" falhariam e ML seria mais adequado.
+**Discussão em sala:** Dê exemplos do cotidiano onde "regras fixas" falhariam e ML seria mais adequado.
 
 ---
 
-## Bloco 3 — Tipos de Aprendizado 
+## Bloco 2 — Tipos de Aprendizado 
 
 ### 1. Aprendizado Supervisionado 
 O modelo aprende com exemplos rotulados (entrada + resposta correta).
@@ -51,7 +51,7 @@ O modelo aprende por tentativa e erro, recebendo recompensas ou punições confo
 
 ---
 
-## Bloco 4 — Ciclo de Vida de um Projeto de ML 
+## Bloco 3 — Ciclo de Vida de um Projeto de ML 
 
 ```
 1. Definição do problema
@@ -66,11 +66,11 @@ O modelo aprende por tentativa e erro, recebendo recompensas ou punições confo
 
 **Analogia:** É como o ciclo de aprovação de um prato novo em um restaurante — definir o prato (problema), comprar ingredientes (dados), preparar (limpeza), testar em um grupo pequeno (treino/teste), servir (deploy) e ajustar a receita conforme o feedback.
 
-> Reforce que as etapas 2 e 3 consomem ~70-80% do tempo real de um projeto de ML.
+> As etapas 2 e 3 consomem ~70-80% do tempo real de um projeto de ML.
 
 ---
 
-## Bloco 5 — Casos de Uso Reais 
+## Bloco 4 — Casos de Uso Reais 
 
 | Aplicação | Tipo de aprendizado | Exemplo |
 |---|---|---|
@@ -82,7 +82,7 @@ O modelo aprende por tentativa e erro, recebendo recompensas ou punições confo
 
 ---
 
-## Bloco 6 — Prática no Google Colab 
+## Bloco 5 — Prática no Google Colab 
 
 ### Passo 1 — Configuração do ambiente 
 
