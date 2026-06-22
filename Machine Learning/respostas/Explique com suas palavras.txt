@@ -1,0 +1,35 @@
+Explique com suas palavras:
+
+O que é Machine Learning?
+
+R= É um método de aprendizado de máquina. Usa dados com respostas para aprender o padrão
+
+Exercício 2
+Explique a diferença entre:
+
+X
+
+e
+
+y
+
+R= X representa os dados fornecidos a IA para treino. Y representa os resultados que se soma a partir daqueles dados X
+
+Exercício 3
+O que faz esta linha?
+
+import pandas as pd
+
+R= importa a biblioteca pandas como a variável pd
+
+Exercício 4
+O que é um DataFrame?
+
+R= é um banco de dados criado pela biblioteca pandas e usado no treino de uma IA
+
+Exercício 5
+Explique:
+
+modelo.fit(X, y)
+
+R= esta linha é o que efetivamente treina o modelo com os dados e respostas
